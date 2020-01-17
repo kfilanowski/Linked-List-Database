@@ -1,7 +1,7 @@
 # Author
 Kevin Filanowski
 
-#Version
+# Version
 09/21/18 - 1.0.0
 
 # Table of Contents
@@ -42,7 +42,8 @@ doc - A HTML document showing off the java docs.
 src - A folder containing the source files of the program.
 
 ## Inside src:
-#### Database.java : The main driver of the program. This file should be called
+#### Database.java 
+* The main driver of the program. This file should be called
 when the program is to be run. This file reads the input, populates the tables,
 and contains the flow of the user interaction and menu.
 

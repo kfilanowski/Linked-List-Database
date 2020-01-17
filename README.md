@@ -39,6 +39,7 @@ section 'INPUT FILE'
 
 # Contents
 doc - A HTML document showing off the java docs.
+
 src - A folder containing the source files of the program.
 
 ## Inside src:
@@ -89,9 +90,10 @@ directory:
 There should be no errors or warnings. Many class files should appear.
 
 # Usage
-------------------
 `java Database`
+
 or
+
 `./java Database`
 
 A menu will appear from there, and the user can navigate that.
